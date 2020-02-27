@@ -47,14 +47,6 @@ a {
   /*transition: .3s ease-in-out;*/
 }
 
-#textColorBlue:hover {
-  /*color: #2049ff;*/
-}
-
-#textColorPink:hover {
-  /*color: #ff0072;*/
-}
-
 .group-color-change {
   cursor: pointer;
 }
